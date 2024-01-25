@@ -1,4 +1,3 @@
-package br.com.alura.alugames.servicos
 import java.time.LocalDate
 import java.time.Period
 import java.time.format.DateTimeFormatter
